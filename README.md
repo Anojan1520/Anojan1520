@@ -1,16 +1,71 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Anojan</h1>
+<h3 align="center">Frontend Developer | Tech Enthusiast</h3>
 
-<!--
-**Anojan1520/Anojan1520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile%20views-84-blue?style=flat&logo=github" alt="Profile Views" />
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🚀 About Me
+- 🔭 **Currently working** on an internal web app for an IT institute.
+- 🌱 **Learning**: HTML, CSS, Bootstrap, Angular, TypeScript, C#, MSSQL
+- 👨‍💻 Check out my work: [GitHub Repositories](https://github.com/Anojan1520)
+- 💬 **Ask me about**: Angular, C#, Full-stack development
+- 📫 Reach me: **unicom1520@gmail.com**
+- 🎧 **Fun fact**: I love coding while listening to tech podcasts.
+
+---
+
+### 🌐 Connect with Me:
+<p align="center">
+  <a href="https://www.linkedin.com/in/anojan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-@Anojans-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/anojan1520" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@anojan1520-blue?style=for-the-badge&logo=twitter" alt="Twitter"/>
+  </a>
+</p>
+
+---
+
+### 🛠 Technologies & Tools:
+<p align="center">
+  <a href="https://angular.io" target="_blank" rel="noreferrer">
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="50" height="50"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50"/>
+  </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
+  </a>
+</p>
+
+---
+
+<!-- GitHub Stats Card -->
+### 📈 Top Languages Used
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anojan1520&layout=compact&theme=radical" alt="Anojans's Top Languages"/>
+</p>
+
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anojan1520&theme=radical" alt="Anojans's Streak"/>
+</p>
+
+---
