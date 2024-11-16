@@ -7,15 +7,14 @@
 
 
 
-### 🚀 About Me
-<p align="center">
-  - 🔭 **Currently working** on learning and improving my skills in **HTML, CSS, Bootstrap, Angular, TypeScript, C#, and MSSQL**.<br>
-  - 🌱 **Learning**: HTML, CSS, Bootstrap, Angular, TypeScript, C#, MSSQL.<br>
-  - 👨‍💻 Check out my work: [GitHub Repositories](https://github.com/Anojan1520).<br>
-  - 💬 **Ask me about**: Angular, C#, Full-stack development.<br>
-  - 📫 Reach me: **unicom1520@gmail.com**.<br>
-  - 🎧 **Fun fact**: I love coding while listening to tech podcasts.
-</p>
+### 👨‍💻 About Me
+
+- 🔭 **Currently working on:** Learning and improving my skills in **HTML, CSS, Bootstrap, Angular, TypeScript, C#, and MSSQL**.
+- 🌱 **Learning:** HTML, CSS, Bootstrap, Angular, TypeScript, C#, MSSQL.
+- 💻 **Check out my work:** [GitHub Repositories](https://github.com/Anojan1520).
+- 💬 **Ask me about:** Angular, C#, Full-stack development.
+- 📫 **Reach me:** [unicom1520@gmail.com](mailto:unicom1520@gmail.com).
+- 🎧 **Fun fact:** I love coding while listening to tech podcasts.
 
 
 ---
