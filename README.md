@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Anojan</h1>
-<h3 align="center">Frontend Developer | Tech Enthusiast</h3>
+<h3 align="center">FullStack Developer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Profile%20views-84-blue?style=flat&logo=github" alt="Profile Views" />
