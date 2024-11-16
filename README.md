@@ -6,16 +6,14 @@
 </p>
 
 
-
 ### 👨‍💻 About Me
 
-- 🔭 **Currently working on:** Learning and improving my skills in **HTML, CSS, Bootstrap, Angular, TypeScript, C#, and MSSQL**.
-- 🌱 **Learning:** HTML, CSS, Bootstrap, Angular, TypeScript, C#, MSSQL.
-- 💻 **Check out my work:** [GitHub Repositories](https://github.com/Anojan1520).
-- 💬 **Ask me about:** Angular, C#, Full-stack development.
-- 📫 **Reach me:** [unicom1520@gmail.com](mailto:unicom1520@gmail.com).
-- 🎧 **Fun fact:** I love coding while listening to tech podcasts.
-
+🔭 **Currently working on:** Learning and improving my skills in **HTML, CSS, Bootstrap, Angular, TypeScript, C#, and MSSQL**.  
+🌱 **Learning:** HTML, CSS, Bootstrap, Angular, TypeScript, C#, MSSQL.  
+💻 **Check out my work:** [GitHub Repositories](https://github.com/Anojan1520).  
+💬 **Ask me about:** Angular, C#, Full-stack development.  
+📫 **Reach me:** [unicom1520@gmail.com](mailto:unicom1520@gmail.com).  
+🎧 **Fun fact:** I love coding while listening to tech podcasts.
 
 ---
 
