@@ -63,9 +63,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anojan1520&layout=compact&theme=radical" alt="Anojans's Top Languages"/>
 </p>
 
-<!-- Streak Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anojan1520&theme=radical" alt="Anojans's Streak"/>
-</p>
-
----
