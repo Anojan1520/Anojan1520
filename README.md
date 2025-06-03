@@ -6,7 +6,7 @@
 <h3 align="center">FullStack Developer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20views-487-blue?style=flat&logo=github" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Anojan1520&label=Profile%20views&color=green&style=flat" alt="ajith04" /> 
 </p>
 
 
