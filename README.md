@@ -6,7 +6,7 @@
 <h3 align="center">FullStack Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anojan1520&label=Profile%20views=378&color=green&style=flat" alt="ajith04" /> 
+  <img src="https://komarev.com/ghpvc/?username=Ajith04&label=Profile%20views&color=green&style=flat" alt="ajith04" /> 
 </p>
 
 
